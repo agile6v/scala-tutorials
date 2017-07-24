@@ -20,7 +20,7 @@
 
 
 ### 第1章
-> 熟悉 IntelliJ IDEA
+> 熟悉 IntelliJ IDEA
 
 1. 章节介绍
 1. Scala环境设置 – 安装 Java Development Kit (JDK)
