@@ -22,22 +22,22 @@
 ### 第1章
 > 熟悉 IntelliJ IDEA
 
-1. 章节介绍
-1. Scala环境设置 – 安装 Java Development Kit (JDK)
-1. Scala环境设置 – 怎样安装 IntelliJ IDE
-1. Scala环境设置 – 怎样在IntelliJ中安装 Scala 插件
-1. 第一个Scala - Hello World程序
-1. 从main方法运行Scala应用
-1. 运行你的Scala应用
-1. 调试你的Scala应用
-1. Scala 项目入门
-1. Scala 项目Classpath
-1. build.sbt 入门
-1. SBT 依赖和Maven
-1. IntelliJ 设置和首选项
-1. IntelliJ 导航快捷键
-1. IntelliJ 搜索快捷键
-1. IntelliJ 快捷键 – 编译, 调试，运行
+1. [本章介绍](1_1.md)
+1. [Scala环境设置 – 安装 Java Development Kit (JDK)](1_2.md)
+1. [Scala环境设置 – 怎样安装 IntelliJ IDE](1_3.md)
+1. [Scala环境设置 – 怎样在IntelliJ中安装 Scala 插件](1_4.md)
+1. [第一个Scala程序 - Hello World](1_5.md)
+1. [从main方法运行Scala应用](1_6.md)
+1. [运行你的Scala应用](1_7.md)
+1. [调试你的Scala应用](1_8.md)
+1. [Scala 项目入门](1_9.md)
+1. [Scala 项目Classpath](1_10.md)
+1. [build.sbt 入门](1_11.md)
+1. [SBT 依赖和Maven](1_12.md)
+1. [IntelliJ 设置和首选项](1_13.md)
+1. [IntelliJ 导航快捷键](1_14.md)
+1. [IntelliJ 搜索快捷键](1_15.md)
+1. [IntelliJ 快捷键 – 编译, 调试，运行](1_16.md)
 
 
 ### 第2章
