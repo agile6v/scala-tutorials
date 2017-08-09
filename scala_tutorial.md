@@ -141,23 +141,23 @@
 ### 第7章
 > Mutable 集合
 
-1. 本章介绍
-1. Array
-1. ArrayBuffer
-1. ArrayStack
-1. ListBuffer
-1. Map
-1. HashMap
-1. ListMap
-1. LinkedHashMap
-1. Queue
-1. PriorityQueue
-1. Set
-1. HashSet
-1. SortedSet
-1. TreeSet
-1. LinkedHashSet
-1. BitSet
+1. [本章介绍](7_1.md)
+1. [Array](7_2.md)
+1. [ArrayBuffer](7_3.md)
+1. [ArrayStack](7_4.md)
+1. [ListBuffer](7_5.md)
+1. [Map](7_6.md)
+1. [HashMap](7_7.md)
+1. [ListMap](7_8.md)
+1. [LinkedHashMap](7_9.md)
+1. [Queue](7_10.md)
+1. [PriorityQueue](7_11.md)
+1. [Set](7_12.md)
+1. [HashSet](7_13.md)
+1. [SortedSet](7_14.md)
+1. [TreeSet](7_15.md)
+1. [LinkedHashSet](7_16.md)
+1. [BitSet](7_17.md)
 
 
 ### 第8章
