@@ -119,23 +119,23 @@
 ### 第6章
 > Immutable 集合
 
-1. 本章介绍
-1. List
-1. ListSet
-1. ListMap
-1. Map
-1. HashMap
-1. TreeMap
-1. Queue
-1. Sequence
-1. Set
-1. HashSet
-1. TreeSet
-1. SortedSet
-1. BitSet
-1. Stack
-1. Stream
-1. Vector
+1. [本章介绍](6_1.md)
+1. [List](6_2.md)
+1. [ListSet](6_3.md)
+1. [ListMap](6_4.md)
+1. [Map](6_5.md)
+1. [HashMap](6_6.md)
+1. [TreeMap](6_7.md)
+1. [Queue](6_8.md)
+1. [Sequence](6_9.md)
+1. [Set](6_10.md)
+1. [HashSet](6_11.md)
+1. [TreeSet](6_12.md)
+1. [SortedSet](6_13.md)
+1. [BitSet](6_14.md)
+1. [Stack](6_15.md)
+1. [Stream](6_16.md)
+1. [Vector](6_17.md)
 
 
 ### 第7章
