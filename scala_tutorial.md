@@ -17,23 +17,23 @@
 ### 第0章 ###
 > Scala 概述
 
-1. [Scala 介绍](0_1.md)
-2. [Scala 编程语言](0_2.md)
-3. [Scala 函数编程功能及相关内容](0_3.md)
+1. [Scala 介绍](tutorial/0_1.md)
+2. [Scala 编程语言](tutorial/0_2.md)
+3. [Scala 函数编程功能及相关内容](tutorial/0_3.md)
 
 
 ### 第1章
 > 熟悉 IntelliJ IDEA
 
-1. [本章介绍](1_1.md)
-1. [Scala环境设置 – 安装 Java Development Kit (JDK)](1_2.md)
-1. [Scala环境设置 – 怎样安装 IntelliJ IDE](1_3.md)
-1. [Scala环境设置 – 怎样在IntelliJ中安装 Scala 插件](1_4.md)
-1. [第一个Scala程序 - Hello World](1_5.md)
-1. [从main方法运行Scala应用](1_6.md)
-1. [运行你的Scala应用](1_7.md)
-1. [调试你的Scala应用](1_8.md)
-1. [Scala 项目入门](1_9.md)
+1. [本章介绍](tutorial/1_1.md)
+1. [Scala环境设置 – 安装 Java Development Kit (JDK)](tutorial/1_2.md)
+1. [Scala环境设置 – 怎样安装 IntelliJ IDE](tutorial/1_3.md)
+1. [Scala环境设置 – 怎样在IntelliJ中安装 Scala 插件](tutorial/1_4.md)
+1. [第一个Scala程序 - Hello World](tutorial/1_5.md)
+1. [从main方法运行Scala应用](tutorial/1_6.md)
+1. [运行你的Scala应用](tutorial/1_7.md)
+1. [调试你的Scala应用](tutorial/1_8.md)
+1. [Scala 项目入门](tutorial/1_9.md)
 1. [Scala 项目Classpath](1_10.md)
 1. [build.sbt 入门](1_11.md)
 1. [SBT 依赖和Maven](1_12.md)
@@ -46,8 +46,8 @@
 ### 第2章
 > 学习Scala基础
 
-1. [章节介绍](2_1.md)
-1. [变量和数据类型](2_2.md)
+1. [章节介绍](tutorial/2_1.md)
+1. [变量和数据类型](tutorial/2_2.md)
 1. 字符串插值
 1. 如何字符转义和创建多行字符串
 1. 类型推导
@@ -91,15 +91,15 @@
 ### 第4章
 > 你认为自己了解面向对象编程吗？
 
-1. [本章介绍](4_1.md)
-1. [类和对象](4_2.md)
-1. [伴生对象 (Companion Objects)](4_3.md)
-1. [伴生对象的Apply方法作为工厂方法 (通过类的继承实现)](4_4.md)
-1. [伴生对象中的字段和值](4_5.md)
-1. [单例对象 (Singleton Object)](4_6.md)
-1. [Case Class](4_7.md)
-1. [类型别名: 类型别名 VS Case Class](4_8.md)
-1. [隐式类 - 扩展方法](4_9.md)
+1. [本章介绍](tutorial/4_1.md)
+1. [类和对象](tutorial/4_2.md)
+1. [伴生对象 (Companion Objects)](tutorial/4_3.md)
+1. [伴生对象的Apply方法作为工厂方法 (通过类的继承实现)](tutorial/4_4.md)
+1. [伴生对象中的字段和值](tutorial/4_5.md)
+1. [单例对象 (Singleton Object)](tutorial/4_6.md)
+1. [Case Class](tutorial/4_7.md)
+1. [类型别名: 类型别名 VS Case Class](tutorial/4_8.md)
+1. [隐式类 - 扩展方法](tutorial/4_9.md)
 1. [包对象(Package Objects)](4_10.md)
 1. [继承抽象类](4_11.md)
 1. [Case Class 继承](4_12.md)
@@ -122,15 +122,15 @@
 ### 第6章
 > Immutable 集合
 
-1. [本章介绍](6_1.md)
-1. [List](6_2.md)
-1. [ListSet](6_3.md)
-1. [ListMap](6_4.md)
-1. [Map](6_5.md)
-1. [HashMap](6_6.md)
-1. [TreeMap](6_7.md)
-1. [Queue](6_8.md)
-1. [Sequence](6_9.md)
+1. [本章介绍](tutorial/6_1.md)
+1. [List](tutorial/6_2.md)
+1. [ListSet](tutorial/6_3.md)
+1. [ListMap](tutorial/6_4.md)
+1. [Map](tutorial/6_5.md)
+1. [HashMap](tutorial/6_6.md)
+1. [TreeMap](tutorial/6_7.md)
+1. [Queue](tutorial/6_8.md)
+1. [Sequence](tutorial/6_9.md)
 1. [Set](6_10.md)
 1. [HashSet](6_11.md)
 1. [TreeSet](6_12.md)
@@ -144,15 +144,15 @@
 ### 第7章
 > Mutable 集合
 
-1. [本章介绍](7_1.md)
-1. [Array](7_2.md)
-1. [ArrayBuffer](7_3.md)
-1. [ArrayStack](7_4.md)
-1. [ListBuffer](7_5.md)
-1. [Map](7_6.md)
-1. [HashMap](7_7.md)
-1. [ListMap](7_8.md)
-1. [LinkedHashMap](7_9.md)
+1. [本章介绍](tutorial/7_1.md)
+1. [Array](tutorial/7_2.md)
+1. [ArrayBuffer](tutorial/7_3.md)
+1. [ArrayStack](tutorial/7_4.md)
+1. [ListBuffer](tutorial/7_5.md)
+1. [Map](tutorial/7_6.md)
+1. [HashMap](tutorial/7_7.md)
+1. [ListMap](tutorial/7_8.md)
+1. [LinkedHashMap](tutorial/7_9.md)
 1. [Queue](7_10.md)
 1. [PriorityQueue](7_11.md)
 1. [Set](7_12.md)
