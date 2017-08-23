@@ -49,8 +49,8 @@
 1. [章节介绍](tutorial/2_1.md)
 1. [变量和数据类型](tutorial/2_2.md)
 1. [字符串插值](tutorial/2_3.md)
-1. [如何转义字符和创建多行字符串](tutorial/2_4.md)
-1. 类型推导
+1. [如何转义字符和创建多行字符串](utorial/2_4.md)
+1. [类型推导](tutorial/2_5.md)
 1. If Else 语句和表达式
 1. For 循环
 1. Range 表达式
