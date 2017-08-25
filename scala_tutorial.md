@@ -52,7 +52,7 @@
 1. [如何转义字符和创建多行字符串](utorial/2_4.md)
 1. [类型推导](tutorial/2_5.md)
 1. [If Else 语句和表达式](tutorial/2_6.md)
-1. For 循环
+1. [For 循环](tutorial/2_7.md)
 1. Range 表达式
 1. While 和 Do While 循环
 1. 模式匹配
