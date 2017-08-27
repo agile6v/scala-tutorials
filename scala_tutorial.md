@@ -54,7 +54,7 @@
 1. [If Else 语句和表达式](tutorial/2_6.md)
 1. [For 循环](tutorial/2_7.md)
 1. [Range 表达式](tutorial/2_8.md)
-1. While 和 Do While 循环
+1. [While 和 Do While 循环](tutorial/2_9.md)
 1. 模式匹配
 1. 元组（Tuples）
 1. Option
