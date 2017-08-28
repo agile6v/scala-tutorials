@@ -55,7 +55,7 @@
 1. [For 循环](tutorial/2_7.md)
 1. [Range 表达式](tutorial/2_8.md)
 1. [While 和 Do While 循环](tutorial/2_9.md)
-1. 模式匹配
+1. [模式匹配](tutorial/2_10.md)
 1. 元组（Tuples）
 1. Option
 1. 类的层次结构
