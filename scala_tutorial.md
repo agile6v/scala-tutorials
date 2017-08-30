@@ -57,7 +57,7 @@
 1. [While 和 Do While 循环](tutorial/2_9.md)
 1. [模式匹配](tutorial/2_10.md)
 1. [元组(Tuples)](tutorial/2_11.md)
-1. Option
+1. [Option](tutorial/2_12.md)
 1. 类的层次结构
 1. 枚举（Enumerations)
 
