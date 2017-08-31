@@ -59,7 +59,7 @@
 1. [元组(Tuples)](tutorial/2_11.md)
 1. [Option](tutorial/2_12.md)
 1. [类的层次结构](tutorial/2_13.md)
-1. 枚举（Enumerations)
+1. [枚举（Enumerations)](tutorial/2_14.md)
 
 ### 第3章
 > 在函数上思考
