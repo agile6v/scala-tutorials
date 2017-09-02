@@ -110,7 +110,7 @@
 ### 第5章
 > 使用traits重新实现依赖注入
 
-1. 章节介绍
+1. [章节介绍](tutorial/5_1.md)
 2. 创建 Trait 和继承 Trait
 3. 带有泛型参数的 Trait
 4. 继承多个 Trait
