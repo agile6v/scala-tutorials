@@ -108,7 +108,7 @@
 1. [逆变(Contra-Variance)](tutorial/4_15.md)
 
 ### 第5章
-> Dependency Injection reinvented using traits
+> 使用traits重新实现依赖注入
 
 1. 章节介绍
 2. 创建 Trait 和继承 Trait
