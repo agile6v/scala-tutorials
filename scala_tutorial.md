@@ -114,9 +114,9 @@
 2. [创建 Trait 和继承 Trait](tutorial/5_2.md)
 3. [带有泛型参数的 Trait](tutorial/5_3.md)
 4. [继承多个 Trait](tutorial/5_4.md)
-5. 依赖注入 - 使用 Traits (Part 1)
-6. 依赖注入 - 使用 Traits (Part 2 - 避免Cake模式）
-7. Traits, 伴生对象(Companion Objects), 工厂模式
+5. [依赖注入 - 使用 Traits (Part 1)](tutorial/5_5.md)
+6. [依赖注入 - 使用 Traits (Part 2 - 避免Cake模式）](tutorial/5_6.md)
+7. [Traits, 伴生对象(Companion Objects), 工厂模式](tutorial/5_7.md)
 
 
 ### 第6章
