@@ -120,7 +120,7 @@
 
 
 ### 第6章
-> Immutable 集合
+> 不可变集合
 
 1. [本章介绍](tutorial/6_1.md)
 1. [List](tutorial/6_2.md)
@@ -142,7 +142,7 @@
 
 
 ### 第7章
-> Mutable 集合
+> 可变集合
 
 1. [本章介绍](tutorial/7_1.md)
 1. [Array](tutorial/7_2.md)
