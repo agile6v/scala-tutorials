@@ -166,7 +166,7 @@
 ### 第8章
 > 集合函数
 
-* 本章介绍
+* [本章介绍](tutorial/8_1.md)
 * 函数: aggregate	
 * 函数: collect
 * 函数: diff	
