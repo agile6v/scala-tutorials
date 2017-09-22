@@ -168,7 +168,7 @@
 
 * [本章介绍](tutorial/8_1.md)
 * 函数: aggregate	
-* 函数: collect
+* [函数: collect](tutorial/8_3.md)
 * 函数: diff	
 * 函数: drop
 * 函数: dropWhile	
