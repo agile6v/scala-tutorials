@@ -170,7 +170,7 @@
 * 函数: aggregate	
 * [函数: collect](tutorial/8_3.md)
 * 函数: diff	
-* 函数: drop
+* [函数: drop](tutorial/8_5.md)
 * 函数: dropWhile	
 * 函数: exists
 * 函数: filter & filterNot	
