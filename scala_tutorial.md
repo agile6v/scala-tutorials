@@ -171,7 +171,7 @@
 * [函数: collect](tutorial/8_3.md)
 * 函数: diff	
 * [函数: drop](tutorial/8_5.md)
-* 函数: dropWhile	
+* [函数: dropWhile](tutorial/8_6.md)
 * 函数: exists
 * 函数: filter & filterNot	
 * 函数: find
