@@ -174,7 +174,7 @@
 * [函数: dropWhile](tutorial/8_6.md)
 * 函数: exists
 * [函数: filter & filterNot](tutorial/8_8.md)	
-* 函数: find
+* [函数: find](tutorial/8_9.md)
 * 函数: flatMap	
 * 函数: flatten
 * 函数: fold	
