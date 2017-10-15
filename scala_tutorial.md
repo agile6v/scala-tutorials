@@ -181,7 +181,7 @@
 * 函数: foldLeft
 * 函数: foldRight	
 * 函数: foreach
-* 函数: groupBy	
+* [函数: groupBy](tutorial/8_16.md)	
 * [函数: head](tutorial/8_17.md)
 * [函数: isEmpty](tutorial/8_18.md)
 * 函数: intersect
