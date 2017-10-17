@@ -177,7 +177,7 @@
 * [函数: find](tutorial/8_9.md)
 * [函数: flatMap](tutorial/8_10.md)
 * 函数: flatten
-* 函数: fold	
+* [函数: fold](tutorial/8_12.md)	
 * 函数: foldLeft
 * 函数: foldRight	
 * 函数: foreach
