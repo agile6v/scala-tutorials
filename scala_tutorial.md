@@ -185,7 +185,7 @@
 * [函数: head](tutorial/8_17.md)
 * [函数: isEmpty](tutorial/8_18.md)
 * 函数: intersect
-* 函数: last	
+* [函数: last](tutorial/8_20.md	
 * 函数: map
 * [函数: max](tutorial/8_22.md)	
 * 函数: maxBy
