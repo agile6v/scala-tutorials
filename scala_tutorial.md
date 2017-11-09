@@ -188,7 +188,7 @@
 * [函数: last](tutorial/8_20.md	
 * 函数: map
 * [函数: max](tutorial/8_22.md)	
-* 函数: maxBy
+* [函数: maxBy](tutorial/8_23.md)
 
 
 ### 第9章
